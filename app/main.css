@@ -965,7 +965,6 @@
 .search-36MZv-, .inner-2P4tQO{
     position: fixed;
     right: 10px;
-    top: 11px;
 }
 
 .icon-3cZ1F_, .icon-1S6UIr{
@@ -983,10 +982,6 @@
 .iconLayout-3OgqU3{
     width: 24px;
     height: 24px;
-}
-
-.platform-win .search-36MZv-, .platform-win .inner-2P4tQO{
-    top: unset;
 }
 
 .platform-win .chat-3bRxxu .wrapper-2qzCYF:not(.minimum-28Z35l) .search-36MZv-, .platform-win .chat-3bRxxu .wrapper-2qzCYF:not(.minimum-28Z35l) .inner-2P4tQO {
