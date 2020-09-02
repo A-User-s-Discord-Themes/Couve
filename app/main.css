@@ -2574,7 +2574,7 @@ html:not(.platform-linux) body:not(.maximized).transparent .appMount-3lHmkl{
 .user-details-text {
     position: absolute;
     right: -500px;
-    top: -100px;
+    top: -120px;
     text-align: right;
 }
 
