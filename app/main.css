@@ -652,7 +652,7 @@
     z-index: 1;
 }
 
-.chat-3bRxxu, .messages-3amgkR{
+.chat-3bRxxu, .messages-3amgkR, .wrapper-3vR61M, .wrapper-1F5TKx{
     background: var(--color2);
 }
 
@@ -1754,10 +1754,6 @@ html:not(.platform-linux) body:not(.maximized).transparent .appMount-3lHmkl{
     background: var(--colornav);
 }
 
-.full-motion #status-picker{
-    left: 2vw;
-}
-
 .full-motion .animatorTop-2Y7x2r{
     transition: unset !important;
     -webkit-transition: unset !important;
@@ -1827,6 +1823,13 @@ html:not(.platform-linux) body:not(.maximized).transparent .appMount-3lHmkl{
 
 .separator-2I32lJ{
     display: none;
+}
+
+/*- fix the stupid thing discord broke*/
+
+#status-picker {
+    top: unset !important;
+    left: 30px !important;
 }
 
 /*- User info*/
@@ -2562,10 +2565,10 @@ html:not(.platform-linux) body:not(.maximized).transparent .appMount-3lHmkl{
 
 /*those userinfo plugins*/
 
-.user-details-text{
-    position: absolute;
-    top:-70px;
-    right:10px;
+.user-details-text {
+    right: -500px;
+    top: -100px;
+    text-align: right;
 }
 
 /*USRBG*/
