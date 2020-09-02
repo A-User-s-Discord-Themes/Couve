@@ -2479,6 +2479,12 @@ html:not(.platform-linux) body:not(.maximized).transparent .appMount-3lHmkl{
     border-radius: 10px 0 0 10px;
 }
 
+/* for some stupid reason cutecord badges use this class so we need to stop that from breaking */
+.topSectionNormal-2-vo2m.cutecord-badges, .topSectionNormal-2-vo2m.bf-badge {
+    width: unset !important;
+    background: transparent;
+}
+
 .topSectionStreaming-1Tpf5X{
     background: #593695;
 }
