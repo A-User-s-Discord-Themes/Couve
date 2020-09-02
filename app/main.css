@@ -1389,6 +1389,10 @@ html:not(.platform-linux) body:not(.maximized).transparent .appMount-3lHmkl{
     display: none;
 }
 
+.ghostPill-2-KUPM {
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+}
 
 .closeButton-1tv5uR:active{
     transform: none;
