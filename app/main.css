@@ -1823,9 +1823,9 @@ html:not(.platform-linux) body:not(.maximized).transparent .appMount-3lHmkl{
 
 /*- fix the stupid thing discord broke*/
 
-#popout_5 {
+#status-picker {
     top: unset !important;
-    left: 0px !important;
+    left: 30px !important;
 }
 
 /*- User info*/
