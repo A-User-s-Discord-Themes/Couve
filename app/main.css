@@ -2572,6 +2572,7 @@ html:not(.platform-linux) body:not(.maximized).transparent .appMount-3lHmkl{
 /*those userinfo plugins*/
 
 .user-details-text {
+    position: absolute;
     right: -500px;
     top: -100px;
     text-align: right;
