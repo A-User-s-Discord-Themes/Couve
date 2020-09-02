@@ -1750,10 +1750,6 @@ html:not(.platform-linux) body:not(.maximized).transparent .appMount-3lHmkl{
     background: var(--colornav);
 }
 
-.full-motion #status-picker{
-    left: 2vw;
-}
-
 .full-motion .animatorTop-2Y7x2r{
     transition: unset !important;
     -webkit-transition: unset !important;
@@ -1823,6 +1819,13 @@ html:not(.platform-linux) body:not(.maximized).transparent .appMount-3lHmkl{
 
 .separator-2I32lJ{
     display: none;
+}
+
+/*- fix the stupid thing discord broke*/
+
+#status-picker {
+    top: unset !important;
+    left: 30px !important;
 }
 
 /*- User info*/
