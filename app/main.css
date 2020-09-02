@@ -1423,7 +1423,7 @@ html:not(.platform-linux) body:not(.maximized).transparent .appMount-3lHmkl{
 }
 
 .lookFilled-1Gx00P.colorBrand-3pXr91, .lookFilled-1Gx00P.colorBrand-3pXr91:hover{
-    background: var(--main-color);
+    background: var(--main-color) !important;
 }
 
 .switch-3wwwcV{
