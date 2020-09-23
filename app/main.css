@@ -729,7 +729,7 @@
     height: unset;
 }
 
-.content-1o0f9g, .unreadPill-2HyYtt{
+.content-1o0f9g, #---new-messages-bar .unreadPill-2HyYtt{
     background: var(--color1);
     width: 100%;
     padding: 10px;
@@ -1730,6 +1730,8 @@ html:not(.platform-linux) body:not(.maximized).transparent .appMount-3lHmkl{
     -ms-border-radius: 0;
     -o-border-radius: 0;
 }
+
+
 
 /*Status Selector*/
 
