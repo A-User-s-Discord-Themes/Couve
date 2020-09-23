@@ -924,6 +924,10 @@
     background: linear-gradient(180deg,transparent 0,var(--color2));
 }
 
+.typing-2GQL18 {
+    z-index: 0;
+}
+
 /*Attach or create invite*/
 .popoutTopLeft-3B0mFf.noArrow-2foL9g.noShadow-3pu20z{
     margin-bottom: 0px;
