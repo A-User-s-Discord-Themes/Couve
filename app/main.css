@@ -2427,7 +2427,7 @@ html:not(.platform-linux) body:not(.maximized).transparent .appMount-3lHmkl{
 
 /*Pinned messages*/
 
-[class="messagesPopoutWrap-1MQ1bW"]{
+.messagesPopoutWrap-1MQ1bW{
     position: fixed;
     top: 48px;
     left: 330px;
@@ -2443,7 +2443,7 @@ html:not(.platform-linux) body:not(.maximized).transparent .appMount-3lHmkl{
     -o-border-radius: 0;
 }
 
-[class="messagesPopoutWrap-1MQ1bW"] .header-ykumBX{
+.messagesPopoutWrap-1MQ1bW .header-ykumBX{
     background: linear-gradient(360deg, transparent, var(--color2));
     text-align: center;
 }
