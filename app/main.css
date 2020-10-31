@@ -76,6 +76,10 @@
   ==> Other stuff <==
 */
 
+/* premium shit configuration */
+:root{
+	--premium-shit-cppf-radius: var(--avatar-radius);
+}
 
 /* no dividers thx */
 
