@@ -81,6 +81,12 @@
 	--premium-shit-cppf-radius: var(--avatar-radius);
 }
 
+.cozy-3raOZG.groupStart-23k01U .contents-2mQqc9::after {
+    left: 48px;
+    width: 30px;
+    height: 30px;
+}
+
 /* no dividers thx */
 
 .content-yTz4x3:before, .divider-3FBTu8{
@@ -285,7 +291,7 @@
 
 /* Channels / Members */
 
-.container-PNkimc, .privateChannels-1nO12o, .members-1998pB, .members-1998pB>div{
+.container-3w7J-x, .privateChannels-1nO12o, .members-1998pB, .members-1998pB>div{
     background: var(--color1);
 }
 
@@ -297,10 +303,10 @@
 .clickable-2ap7je .header-2o-2hj:hover, .selected-WP3kCM .header-2o-2hj{
     background: transparent;
 }
-/* 
-.modeSelected-1zApJ_ .content-3at_AU, .modeSelected-1zApJ_:hover .content-3at_AU{
+/*
+.modeSelected-346R90 .content-1x5b-n, .modeSelected-346R90:hover .content-3at_AU{
     background: var(--epicshadow1);
-} */
+}*/
 
 /*User Area*/
 .panels-j1Uci_{
@@ -341,15 +347,15 @@
     font-size: 14px;
 }
 
-.icon-WnO6o2{
+.icon-2yIBmh{
     display: none;
 }
 
-.container-PNkimc .scroller-2FKFPG::-webkit-scrollbar, .scroller-1JbKMe::-webkit-scrollbar{
+.container-3w7J-x .scroller-RmtA4e::-webkit-scrollbar, .scroller-1JbKMe::-webkit-scrollbar{
     display: none;
 }
 
-.content-3at_AU{
+.content-1x5b-n{
     height: 30px;
     padding: 0 20px;
     margin:0;
@@ -360,7 +366,7 @@
     -o-border-radius: 0;
 }
 
-.wrapper-1ucjTd{
+.wrapper-2jXpOf{
     height: 30px;
 }
 
